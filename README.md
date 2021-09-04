@@ -10,8 +10,8 @@
 To run flask app ```FLASK_APP=app.py flask run```
 
 ### How to use
-| Method |    URL    |  Params          |
-| ------ | --------- |----------        |
-| Get    | / | `````` | 
-| Get    | /weather  | ```lat, lon```  |
+| Method |    URL    |  Params          | Desc    |
+| ------ | --------- |        |         |         |
+| Get    | / | `````` |                 | hello world  |
+| Get    | /weather  | ```lat, lon```   | get weather data |
 
